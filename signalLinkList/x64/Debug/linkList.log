@@ -1,0 +1,4 @@
+﻿signalLinkList\x64\Debug\SList.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+mian.obj : error LNK2019: 无法解析的外部符号 SListPrint，函数 main 中引用了该符号
+mian.obj : error LNK2019: 无法解析的外部符号 SListPushBack，函数 main 中引用了该符号
+D:\user\learn\c\dateStructer\linkList\x64\Debug\signalLinkList.exe : fatal error LNK1120: 2 个无法解析的外部命令
